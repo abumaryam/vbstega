@@ -1,0 +1,11 @@
+C:\Users\dianp\source\repos\StegaRiset\StegaRiset\bin\Debug\StegaRiset.exe
+C:\Users\dianp\source\repos\StegaRiset\StegaRiset\bin\Debug\StegaRiset.pdb
+C:\Users\dianp\source\repos\StegaRiset\StegaRiset\bin\Debug\StegaRiset.xml
+C:\Users\dianp\source\repos\StegaRiset\StegaRiset\obj\Debug\StegaRiset.vbprojAssemblyReference.cache
+C:\Users\dianp\source\repos\StegaRiset\StegaRiset\obj\Debug\StegaRiset.Form1.resources
+C:\Users\dianp\source\repos\StegaRiset\StegaRiset\obj\Debug\StegaRiset.Resources.resources
+C:\Users\dianp\source\repos\StegaRiset\StegaRiset\obj\Debug\StegaRiset.vbproj.GenerateResource.cache
+C:\Users\dianp\source\repos\StegaRiset\StegaRiset\obj\Debug\StegaRiset.vbproj.CoreCompileInputs.cache
+C:\Users\dianp\source\repos\StegaRiset\StegaRiset\obj\Debug\StegaRiset.exe
+C:\Users\dianp\source\repos\StegaRiset\StegaRiset\obj\Debug\StegaRiset.xml
+C:\Users\dianp\source\repos\StegaRiset\StegaRiset\obj\Debug\StegaRiset.pdb
